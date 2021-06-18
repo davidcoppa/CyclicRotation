@@ -1,0 +1,13 @@
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.csproj.AssemblyReference.cache
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.AssemblyInfoInputs.cache
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.AssemblyInfo.cs
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.csproj.CoreCompileInputs.cache
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.exe
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.deps.json
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.runtimeconfig.json
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.runtimeconfig.dev.json
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.dll
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.pdb
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.dll
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.pdb
+D:\Dropbox\david\code\GitHub\C#\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.genruntimeconfig.cache
